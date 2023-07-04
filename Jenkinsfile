@@ -7,7 +7,8 @@ pipeline
         {
             when
             {
-                tag '2.0'
+                /*tag '2.0'*/
+                buildingTag()
             }
             steps
             {
