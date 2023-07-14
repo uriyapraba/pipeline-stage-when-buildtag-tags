@@ -8,7 +8,7 @@ pipeline
             when
             {
                 //buildingTag()
-                tag '2.0'
+                tag '3.0'
                 //tag 'release-*'
             }
             steps
